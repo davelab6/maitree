@@ -25,7 +25,6 @@
          url('fonts/Maitree-Semibold.eot?#iefix') format('embedded-opentype'),
           url('fonts/Maitree-Semibold.woff2') format('woff2'),
          url('fonts/Maitree-Semibold.woff') format('woff');
-    font-weight: 600;
     font-family: 'Maitree-Bold';
     src: url('fonts/Maitree-Bold.ttf') format('truetype'),
          url('fonts/Maitree-Bold.eot?#iefix') format('embedded-opentype'),
@@ -42,7 +41,6 @@
 #block-1-header {
   font-family: Maitree-Light;
   font-size: 25pt;
-  font-weight: 300;
   line-height: 200%;
   text-align: center;
   padding-top: 250px;
@@ -51,7 +49,6 @@
 #name {
   font-family: Maitree-Medium;
   font-size: 90pt;
-  font-weight: 500;
 }
 
 #block-2 {
