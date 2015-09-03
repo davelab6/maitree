@@ -33,7 +33,7 @@
 }
 
 #block-1-header {
-  font-family: 'Maitree';
+  font-family: Maitree;
   font-size: 25pt;
   font-weight: 300;
   line-height: 200%;
@@ -42,7 +42,7 @@
 }
 
 #name {
-  font-family: 'Maitree';
+  font-family: Maitree;
   font-size: 90pt;
   font-weight: 500;
 }
@@ -50,7 +50,7 @@
 #block-2 {
   color: #FF0058;
   background-color: #FFF;
-  font-family: 'Maitree';
+  font-family: 'Maitree-Regular';
   font-size: 50pt;
   line-height: 120%;
   font-weight: 400;
