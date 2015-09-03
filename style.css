@@ -4,22 +4,24 @@
          url('fonts/Maitree-ExtraLight.eot?#iefix') format('embedded-opentype'),
          url('fonts/Maitree-ExtraLight.woff2') format('woff2'),
          url('fonts/Maitree-ExtraLight.woff') format('woff'),
-         url('fonts/Maitree-ExtraLight.ttf') format('truetype'),
+         url('fonts/Maitree-ExtraLight.ttf') format('truetype');
     font-family: 'Maitree-Light';
-    src: url('fonts/Maitree-Light.ttf') format('truetype'),
+    src: url('fonts/Maitree-Light.eot'),
          url('fonts/Maitree-Light.eot?#iefix') format('embedded-opentype'),
          url('fonts/Maitree-Light.woff2') format('woff2'),
-         url('fonts/Maitree-Light.woff') format('woff');
+         url('fonts/Maitree-Light.woff') format('woff'),
+         url('fonts/Maitree-Light.ttf') format('truetype');
     font-family: 'Maitree-Regular';
     src: url('fonts/Maitree-Regular.ttf') format('truetype'),
          url('fonts/Maitree-Regular.eot?#iefix') format('embedded-opentype'),
           url('fonts/Maitree-Regular.woff2') format('woff2'),
          url('fonts/Maitree-Regular.woff') format('woff');
     font-family: 'Maitree-Medium';
-    src: url('fonts/Maitree-Medium.ttf') format('truetype'),
+    src: url('fonts/Maitree-Medium.eot'),
          url('fonts/Maitree-Medium.eot?#iefix') format('embedded-opentype'),
-          url('fonts/Maitree-Medium.woff2') format('woff2'),
-         url('fonts/Maitree-Medium.woff') format('woff');
+         url('fonts/Maitree-Medium.woff2') format('woff2'),
+         url('fonts/Maitree-Medium.woff') format('woff'),
+         url('fonts/Maitree-Medium.ttf') format('truetype');
     font-family: 'Maitree-Semibold';
     src: url('fonts/Maitree-Semibold.ttf') format('truetype'),
          url('fonts/Maitree-Semibold.eot?#iefix') format('embedded-opentype'),
@@ -57,7 +59,6 @@
   font-family: Maitree-Regular;
   font-size: 50pt;
   line-height: 120%;
-  font-weight: 400;
   text-align: left;
   padding-top: 100px;
   padding-bottom: 100px;
