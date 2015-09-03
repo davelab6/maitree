@@ -6,11 +6,11 @@
          url('fonts/Maitree-ExtraLight.woff') format('woff'),
          url('fonts/Maitree-ExtraLight.ttf') format('truetype');
     font-family: 'Maitree-Light';
-    src: url('fonts/Maitree-Light.eot');
-    src: url('fonts/Maitree-Light.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Maitree-Light.woff2') format('woff2'),
-         url('fonts/Maitree-Light.woff') format('woff'),
-         url('fonts/Maitree-Light.ttf') format('truetype');
+    src: url('https://github.com/cadsondemak/maitree/blob/gh-pages/fonts/Maitree-Light.eot');
+    src: url('https://github.com/cadsondemak/maitree/blob/gh-pages/fonts/Maitree-Light.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/cadsondemak/maitree/blob/gh-pages/fonts/Maitree-Light.woff2') format('woff2'),
+         url('https://github.com/cadsondemak/maitree/blob/gh-pages/fonts/Maitree-Light.woff') format('woff'),
+         url('https://github.com/cadsondemak/maitree/blob/gh-pages/fonts/Maitree-Light.ttf') format('truetype');
     font-family: 'Maitree-Regular';
     src: url('fonts/Maitree-Regular.eot');
     src: url('fonts/Maitree-Regular.eot?#iefix') format('embedded-opentype'),
@@ -18,11 +18,11 @@
          url('fonts/Maitree-Regular.woff') format('woff'),
          url('fonts/Maitree-Regular.ttf') format('truetype');
     font-family: 'Maitree-Medium';
-    src: url('fonts/Maitree-Medium.eot');
-    src: url('fonts/Maitree-Medium.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Maitree-Medium.woff2') format('woff2'),
-         url('fonts/Maitree-Medium.woff') format('woff'),
-         url('fonts/Maitree-Medium.ttf') format('truetype');
+    src: url('https://github.com/cadsondemak/maitree/blob/gh-pages/fonts/Maitree-Medium.eot');
+    src: url('https://github.com/cadsondemak/maitree/blob/gh-pages/fonts/Maitree-Medium.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/cadsondemak/maitree/blob/gh-pages/fonts/Maitree-Medium.woff2') format('woff2'),
+         url('https://github.com/cadsondemak/maitree/blob/gh-pages/fonts/Maitree-Medium.woff') format('woff'),
+         url('https://github.com/cadsondemak/maitree/blob/gh-pages/fonts/Maitree-Medium.ttf') format('truetype');
     font-family: 'Maitree-Semibold';
     src: url('fonts/Maitree-Semibold.eot');
     src: url('fonts/Maitree-Semibold.eot?#iefix') format('embedded-opentype'),
