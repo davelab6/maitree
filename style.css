@@ -47,7 +47,7 @@
 }
 
 #name {
-  font-family: Maitree-Medium;
+  font-family: 'Maitree-Medium';
   font-size: 90pt;
   font-weight: 500;
 }
@@ -355,7 +355,7 @@
 }
 
 #block-10-Char {
-  font-family: Maitree-Light;
+  font-family: 'Maitree-Light';
   font-size: 22pt;
   font-weight: 300;
   line-height: 120%;
@@ -365,7 +365,7 @@
 }
 
 #block-10-Num {
-  font-family: Maitree-Light;
+  font-family: 'Maitree-Light';
   font-size: 22pt;
   font-weight: 300;
   text-align: left;
@@ -375,7 +375,7 @@
 }
 
 #block-10-Vowel {
-  font-family: Maitree-Light;
+  font-family: 'Maitree-Light';
   line-height: 150%;
   font-size: 22pt;
   font-weight: 300;
@@ -384,7 +384,7 @@
 }
 
 #block-10-Sp-Char {
-  font-family: Maitree-Light;
+  font-family: 'Maitree-Light';
   line-height: 150%;
   font-size: 22pt;
   font-weight: 300;
@@ -393,7 +393,7 @@
 }
 
 #block-10-Symbol {
-  font-family: Maitree-Light;
+  font-family: 'Maitree-Light';
   line-height: 130%;
   font-size: 22pt;
   font-weight: 300;
@@ -402,7 +402,7 @@
 }
 
 #block-10-Ac-Char {
-  font-family: Maitree-Light;
+  font-family: 'Maitree-Light';
   line-height: 130%;
   font-size: 22pt;
   font-weight: 300;
@@ -411,7 +411,7 @@
 }
 
 #block-10-Text1 {
-  font-family: Maitree-Light;
+  font-family: 'Maitree-Light';
   line-height: 125%;
   font-size: 10pt;
   font-weight: 300;
@@ -419,7 +419,7 @@
 }
 
 #block-10-Text2 {
-  font-family: Maitree-Light;
+  font-family: 'Maitree-Light';
   line-height: 125%;
   font-size: 20pt;
   font-weight: 300;
@@ -434,7 +434,7 @@
 }
 
 #block-11-Char {
-  font-family: Maitree-Regular;
+  font-family: 'Maitree-Regular';
   font-size: 22pt;
   font-weight: 400;
   line-height: 120%;
@@ -444,7 +444,7 @@
 }
 
 #block-11-Num {
-  font-family: Maitree-Regular;
+  font-family: 'Maitree-Regular';
   font-size: 22pt;
   font-weight: 400;
   text-align: left;
@@ -454,7 +454,7 @@
 }
 
 #block-11-Vowel {
-  font-family: Maitree-Regular;
+  font-family: 'Maitree-Regular';
   line-height: 150%;
   font-size: 22pt;
   font-weight: 400;
@@ -463,7 +463,7 @@
 }
 
 #block-11-Sp-Char {
-  font-family: Maitree-Regular;
+  font-family: 'Maitree-Regular';
   line-height: 150%;
   font-size: 22pt;
   font-weight: 400;
@@ -472,7 +472,7 @@
 }
 
 #block-11-Symbol {
-  font-family: Maitree-Regular;
+  font-family: 'Maitree-Regular';
   line-height: 130%;
   font-size: 22pt;
   font-weight: 400;
@@ -481,7 +481,7 @@
 }
 
 #block-11-Ac-Char {
-  font-family: Maitree-Regular;
+  font-family: 'Maitree-Regular';
   line-height: 130%;
   font-size: 22pt;
   font-weight: 400;
@@ -490,7 +490,7 @@
 }
 
 #block-11-Text1 {
-  font-family: Maitree-Regular;
+  font-family: 'Maitree-Regular';
   line-height: 125%;
   font-size: 10pt;
   font-weight: 400;
@@ -498,7 +498,7 @@
 }
 
 #block-11-Text2 {
-  font-family: Maitree-Regular;
+  font-family: 'Maitree-Regular';
   line-height: 125%;
   font-size: 20pt;
   font-weight: 400;
@@ -513,7 +513,7 @@
 }
 
 #block-12-Char {
-  font-family: Maitree-Medium;
+  font-family: 'Maitree-Medium';
   font-size: 22pt;
   font-weight: 500;
   line-height: 120%;
@@ -523,7 +523,7 @@
 }
 
 #block-12-Num {
-  font-family: Maitree-Medium;
+  font-family: 'Maitree-Medium';
   font-size: 22pt;
   font-weight: 500;
   text-align: left;
@@ -533,7 +533,7 @@
 }
 
 #block-12-Vowel {
-  font-family: Maitree-Medium;
+  font-family: 'Maitree-Medium';
   line-height: 150%;
   font-size: 22pt;
   font-weight: 500;
@@ -542,7 +542,7 @@
 }
 
 #block-12-Sp-Char {
-  font-family: Maitree-Medium;
+  font-family: 'Maitree-Medium';
   line-height: 150%;
   font-size: 22pt;
   font-weight: 500;
@@ -551,7 +551,7 @@
 }
 
 #block-12-Symbol {
-  font-family: Maitree-Medium;
+  font-family: 'Maitree-Medium';
   line-height: 130%;
   font-size: 22pt;
   font-weight: 500;
@@ -560,7 +560,7 @@
 }
 
 #block-12-Ac-Char {
-  font-family: Maitree-Medium;
+  font-family: 'Maitree-Medium';
   line-height: 130%;
   font-size: 22pt;
   font-weight: 500;
@@ -569,7 +569,7 @@
 }
 
 #block-12-Text1 {
-  font-family: Maitree-Medium;
+  font-family: 'Maitree-Medium';
   line-height: 125%;
   font-size: 10pt;
   font-weight: 500;
@@ -577,7 +577,7 @@
 }
 
 #block-12-Text2 {
-  font-family: Maitree-Medium;
+  font-family: 'Maitree-Medium';
   line-height: 125%;
   font-size: 20pt;
   font-weight: 500;
@@ -592,7 +592,7 @@
 }
 
 #block-13-Char {
-  font-family: Maitree-Semibold;
+  font-family: 'Maitree-Semibold';
   font-size: 22pt;
   font-weight: 600;
   line-height: 120%;
@@ -602,7 +602,7 @@
 }
 
 #block-13-Num {
-  font-family: Maitree-Semibold;
+  font-family: 'Maitree-Semibold';
   font-size: 22pt;
   font-weight: 600;
   text-align: left;
@@ -612,7 +612,7 @@
 }
 
 #block-13-Vowel {
-  font-family: Maitree-Semibold;
+  font-family: 'Maitree-Semibold';
   line-height: 150%;
   font-size: 22pt;
   font-weight: 600;
@@ -621,7 +621,7 @@
 }
 
 #block-13-Sp-Char {
-  font-family: Maitree-Semibold;
+  font-family: 'Maitree-Semibold';
   line-height: 150%;
   font-size: 22pt;
   font-weight: 600;
@@ -630,7 +630,7 @@
 }
 
 #block-13-Symbol {
-  font-family: Maitree-Semibold;
+  font-family: 'Maitree-Semibold';
   line-height: 130%;
   font-size: 22pt;
   font-weight: 600;
@@ -639,7 +639,7 @@
 }
 
 #block-13-Ac-Char {
-  font-family: Maitree-Semibold;
+  font-family: 'Maitree-Semibold';
   line-height: 130%;
   font-size: 22pt;
   font-weight: 600;
@@ -648,7 +648,7 @@
 }
 
 #block-13-Text1 {
-  font-family: Maitree-Semibold;
+  font-family: 'Maitree-Semibold';
   line-height: 125%;
   font-size: 10pt;
   font-weight: 600;
@@ -656,7 +656,7 @@
 }
 
 #block-13-Text2 {
-  font-family: Maitree-Semibold;
+  font-family: 'Maitree-Semibold';
   line-height: 125%;
   font-size: 20pt;
   font-weight: 600;
@@ -671,7 +671,7 @@
 }
 
 #block-14-Char {
-  font-family: Maitree-Bold;
+  font-family: 'Maitree-Bold';
   font-size: 22pt;
   font-weight: 700;
   line-height: 120%;
@@ -681,7 +681,7 @@
 }
 
 #block-14-Num {
-  font-family: Maitree-Bold;
+  font-family: 'Maitree-Bold';
   font-size: 22pt;
   font-weight: 700;
   text-align: left;
@@ -691,7 +691,7 @@
 }
 
 #block-14-Vowel {
-  font-family: Maitree-Bold;
+  font-family: 'Maitree-Bold';
   line-height: 150%;
   font-size: 22pt;
   font-weight: 700;
@@ -700,7 +700,7 @@
 }
 
 #block-14-Sp-Char {
-  font-family: Maitree-Bold;
+  font-family: 'Maitree-Bold';
   line-height: 150%;
   font-size: 22pt;
   font-weight: 700;
@@ -709,7 +709,7 @@
 }
 
 #block-14-Symbol {
-  font-family: Maitree-Bold;
+  font-family: 'Maitree-Bold';
   line-height: 130%;
   font-size: 22pt;
   font-weight: 700;
@@ -718,7 +718,7 @@
 }
 
 #block-14-Ac-Char {
-  font-family: Maitree-Bold;
+  font-family: 'Maitree-Bold';
   line-height: 130%;
   font-size: 22pt;
   font-weight: 700;
@@ -727,7 +727,7 @@
 }
 
 #block-14-Text1 {
-  font-family: Maitree-Bold;
+  font-family: 'Maitree-Bold';
   line-height: 125%;
   font-size: 10pt;
   font-weight: 700;
@@ -735,7 +735,7 @@
 }
 
 #block-14-Text2 {
-  font-family: Maitree-Bold;
+  font-family: 'Maitree-Bold';
   line-height: 125%;
   font-size: 20pt;
   font-weight: 700;
