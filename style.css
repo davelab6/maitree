@@ -194,7 +194,6 @@
   font-family: 'MaitreeSemiBold';
   font-size: 110pt;
   line-height: 100%;
-  font-weight: 600;
   text-align: left;
   padding-top: 70px;
 }
@@ -519,7 +518,6 @@
   font-family: 'MaitreeMedium';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 500;
   text-align: left;
   padding-bottom: 15px;
 }
@@ -536,7 +534,6 @@
   font-family: 'MaitreeMedium';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 500;
   text-align: left;
   padding-bottom: 15px;
 }
