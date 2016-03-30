@@ -1,0 +1,775 @@
+@font-face {
+    font-family: 'MaitreeExtraLight';
+    src: url('./fonts/Maitree-ExtraLight.eot');
+    src: url('./fonts/Maitree-ExtraLight.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Maitree-ExtraLight.woff2') format('woff2'),
+         url('./fonts/Maitree-ExtraLight.woff') format('woff'),
+         url('./fonts/Maitree-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MaitreeLight';
+    src: url('./fonts/Maitree-Light.eot');
+    src: url('./fonts/Maitree-Light.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Maitree-Light.woff2') format('woff2'),
+         url('./fonts/Maitree-Light.woff') format('woff'),
+         url('./fonts/Maitree-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MaitreeRegular';
+    src: url('./fonts/Maitree-Regular.eot');
+    src: url('./fonts/Maitree-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Maitree-Regular.woff2') format('woff2'),
+         url('./fonts/Maitree-Regular.woff') format('woff'),
+         url('./fonts/Maitree-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MaitreeMedium';
+    src: url('./fonts/Maitree-Medium.eot');
+    src: url('./fonts/Maitree-Medium.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Maitree-Medium.woff2') format('woff2'),
+         url('./fonts/Maitree-Medium.woff') format('woff'),
+         url('./fonts/Maitree-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MaitreeSemiBold';
+    src: url('./fonts/Maitree-Semibold.eot');
+    src: url('./fonts/Maitree-Semibold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Maitree-Semibold.woff2') format('woff2'),
+         url('./fonts/Maitree-Semibold.woff') format('woff'),
+         url('./fonts/Maitree-Semibold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'MaitreeBold';
+    src: url('./fonts/Maitree-Bold.eot');
+    src: url('./fonts/Maitree-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Maitree-Bold.woff2') format('woff2'),
+         url('./fonts/Maitree-Bold.woff') format('woff'),
+         url('./fonts/Maitree-Bold.ttf') format('truetype');
+}
+
+#block-1 {
+  color: #FFF;
+  background-color: #FF0058;
+  height: 720px;
+}
+
+#block-1-header {
+  font-family: 'MaitreeLight';
+  font-size: 25pt;
+  line-height: 200%;
+  text-align: center;
+  padding-top: 250px;
+}
+
+#name {
+  font-family: 'MaitreeMedium';
+  font-size: 90pt;
+}
+
+#block-2 {
+  color: #FF0058;
+  background-color: #FFF;
+  font-family: 'MaitreeRegular';
+  font-size: 50pt;
+  line-height: 120%;
+  text-align: left;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#block-3 {
+  height: 720px;
+  background: url("img/block03.png") no-repeat center;
+  color: #333333;
+  background-color: #FF0058;
+}
+
+#block-3-text {
+  font-family: 'MaitreeRegular';
+  font-size: 12pt;
+  line-height: 140%;
+  text-align: right;
+  padding-top: 380px;
+}
+
+#block-4 {
+  height: 720px;
+  background: url("img/block04.png") no-repeat center;
+  color: #FF0058;
+  background-color: #333333;
+}
+
+#block-4-text {
+  font-family: 'MaitreeMedium';
+  font-size: 20pt;
+  line-height: 120%;
+  text-align: right;
+  padding-top: 380px;
+}
+
+#block-5 {
+  color: #FF0058;
+  background-color: #FFF;
+  padding-top: 100px;
+  padding-bottom: 120px;
+}
+
+#block-5-Title {
+  font-family: 'MaitreeRegular';
+  font-size: 16pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-5-text1 {
+  font-family: 'MaitreeExtraLight';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 50px;
+}
+
+#block-5-text1_2 {
+  font-family: 'MaitreeLight';
+  font-size: 12pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-5-text2 {
+  font-family: 'MaitreeLight';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 55px;
+}
+
+#block-5-text2_2 {
+  font-family: 'MaitreeLight';
+  font-size: 12pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-5-text3 {
+  font-family: 'MaitreeRegular';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 60px;
+}
+
+#block-5-text3_2 {
+  font-family: 'MaitreeLight';
+  font-size: 12pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-5-text4 {
+  font-family: 'MaitreeMedium';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 65px;
+}
+
+#block-5-text4_2 {
+  font-family: 'MaitreeLight';
+  font-size: 12pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-5-text5 {
+  font-family: 'MaitreeSemiBold';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 70px;
+}
+
+#block-5-text5_2 {
+  font-family: 'MaitreeLight';
+  font-size: 12pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-5-text6 {
+  font-family: 'MaitreeBold';
+  font-size: 110pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 80px;
+}
+
+#block-5-text6_2 {
+  font-family: 'MaitreeLight';
+  font-size: 12pt;
+  line-height: 100%;
+  text-align: left;
+  padding-top: 20px;
+}
+
+#block-6 {
+  height: 720px;
+  background: url("img/block06.png") no-repeat center;
+  color: #333333;
+  background-color: #FF0058;
+}
+
+#block-7 {
+  background: url("img/block07.png") no-repeat center;
+  background-size: cover;
+  height: 720px;
+  color: #FFF;
+  background-color: #333333;
+}
+
+#block-7-text {
+  font-family: 'MaitreeLight';
+  font-size: 16pt;
+  line-height: 150%;
+  text-align: left;
+  padding-top: 200px;
+}
+
+#block-8 {
+  background: url("img/block08.png") no-repeat center;
+  background-size: cover;
+  height: 720px;
+  color: #FFF;
+  background-color: #333333;
+}
+
+#block-8-text {
+  font-family: 'MaitreeBold';
+  font-size: 18pt;
+  line-height: 150%;
+  text-align: left;
+  padding-top: 430px;
+}
+
+#block-9 {
+  color: #FF0058;
+  background-color: #FFF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+ul.nav > li > a {
+  color: #999999;
+  font-family: 'MaitreeLight';
+  font-size: 12pt;
+  text-align: center;
+  letter-spacing: 0px;
+}
+
+ul.nav > li.active > a {
+  color: #FFF;
+  background-color: #FF0058;
+  font-family: 'MaitreeSemiBold';
+  font-size: 12pt;
+  text-align: center;
+  letter-spacing: 0px;
+}
+
+#block-l-Title {
+  font-family: 'MaitreeLight';
+  font-size: 12pt;
+  text-align: left;
+  letter-spacing: 0px;
+}
+
+#block-9-Char {
+  font-family: 'MaitreeExtraLight';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-9-Num {
+  font-family: 'MaitreeExtraLight';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-9-Vowel {
+  font-family: 'MaitreeExtraLight';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Sp-Char {
+  font-family: 'MaitreeExtraLight';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Symbol {
+  font-family: 'MaitreeExtraLight';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Ac-Char {
+  font-family: 'MaitreeExtraLight';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-9-Text1 {
+  font-family: 'MaitreeExtraLight';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-9-Text2 {
+  font-family: 'MaitreeExtraLight';
+  line-height: 125%;
+  font-size: 20pt;
+  text-align: left;
+}
+
+#block-9-Text3 {
+  font-family: 'MaitreeExtraLight';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-10 {
+  color: #FF0058;
+  background-color: #FFF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#block-10-Char {
+  font-family: 'MaitreeLight';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-10-Num {
+  font-family: 'MaitreeLight';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-10-Vowel {
+  font-family: 'MaitreeLight';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Sp-Char {
+  font-family: 'MaitreeLight';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Symbol {
+  font-family: 'MaitreeLight';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Ac-Char {
+  font-family: 'MaitreeLight';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-10-Text1 {
+  font-family: 'MaitreeLight';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-10-Text2 {
+  font-family: 'MaitreeLight';
+  line-height: 125%;
+  font-size: 20pt;
+  text-align: left;
+}
+
+#block-10-Text3 {
+  font-family: 'MaitreeLight';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-11 {
+  color: #FF0058;
+  background-color: #FFF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#block-11-Char {
+  font-family: 'MaitreeRegular';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-11-Num {
+  font-family: 'MaitreeRegular';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-11-Vowel {
+  font-family: 'MaitreeRegular';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Sp-Char {
+  font-family: 'MaitreeRegular';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Symbol {
+  font-family: 'MaitreeRegular';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Ac-Char {
+  font-family: 'MaitreeRegular';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-11-Text1 {
+  font-family: 'MaitreeRegular';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-11-Text2 {
+  font-family: 'MaitreeRegular';
+  line-height: 125%;
+  font-size: 20pt;
+  text-align: left;
+}
+
+#block-11-Text3 {
+  font-family: 'MaitreeRegular';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-12 {
+  color: #FF0058;
+  background-color: #FFF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#block-12-Char {
+  font-family: 'MaitreeMedium';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-12-Num {
+  font-family: 'MaitreeMedium';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-12-Vowel {
+  font-family: 'MaitreeMedium';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Sp-Char {
+  font-family: 'MaitreeMedium';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Symbol {
+  font-family: 'MaitreeMedium';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Ac-Char {
+  font-family: 'MaitreeMedium';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-12-Text1 {
+  font-family: 'MaitreeMedium';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-12-Text2 {
+  font-family: 'MaitreeMedium';
+  line-height: 125%;
+  font-size: 20pt;
+  text-align: left;
+}
+
+#block-12-Text3 {
+  font-family: 'MaitreeMedium';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-13 {
+  color: #FF0058;
+  background-color: #FFF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#block-13-Char {
+  font-family: 'MaitreeSemiBold';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-13-Num {
+  font-family: 'MaitreeSemiBold';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-13-Vowel {
+  font-family: 'MaitreeSemiBold';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Sp-Char {
+  font-family: 'MaitreeSemiBold';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Symbol {
+  font-family: 'MaitreeSemiBold';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Ac-Char {
+  font-family: 'MaitreeSemiBold';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-13-Text1 {
+  font-family: 'MaitreeSemiBold';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-13-Text2 {
+  font-family: 'MaitreeSemiBold';
+  line-height: 125%;
+  font-size: 20pt;
+  text-align: left;
+}
+
+#block-13-Text3 {
+  font-family: 'MaitreeSemiBold';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#block-14 {
+  color: #FF0058;
+  background-color: #FFF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#block-14-Char {
+  font-family: 'MaitreeBold';
+  font-size: 22pt;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-14-Num {
+  font-family: 'MaitreeBold';
+  font-size: 22pt;
+  text-align: left;
+  line-height: 120%;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+}
+
+#block-14-Vowel {
+  font-family: 'MaitreeBold';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Sp-Char {
+  font-family: 'MaitreeBold';
+  line-height: 150%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Symbol {
+  font-family: 'MaitreeBold';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Ac-Char {
+  font-family: 'MaitreeBold';
+  line-height: 130%;
+  font-size: 22pt;
+  text-align: left;
+  padding-bottom: 15px;
+}
+
+#block-14-Text1 {
+  font-family: 'MaitreeBold';
+  line-height: 125%;
+  font-size: 12pt;
+  text-align: left;
+}
+
+#block-14-Text2 {
+  font-family: 'MaitreeBold';
+  line-height: 125%;
+  font-size: 20pt;
+  text-align: left;
+}
+
+#block-14-Text3 {
+  font-family: 'MaitreeBold';
+  line-height: 150%;
+  font-size: 24pt;
+  text-align: left;
+}
+
+#Line1 {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #FF0058;
+}
+
+#Line2 {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #FF0058;
+}
+
+#Line {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #FF0058;
+}
